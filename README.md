@@ -2,6 +2,7 @@
 
 Credit scoring and segmentation involve assessing the creditworthiness of individuals or businesses and categorizing them into specific groups.
 <br>
+<br>
 Dataset:<br>
 Age: This feature represents the age of the individual.<br>
 Gender: This feature captures the gender of the individual.<br>
@@ -15,6 +16,7 @@ Loan Amount: It indicates the monetary value of the loan.<br>
 Interest Rate: This feature represents the interest rate associated with the loan.<br>
 Loan Term: This feature denotes the duration or term of the loan.<br>
 Type of Loan: It includes categories like “Personal Loan,” “Auto Loan,” or potentially other types of loans.<br>
+<br>
 <br>
 Here we evaluated the credit scores using FICO formula:<br>
 A FICO® score is a particular brand of credit score. A credit score is a number that is used to predict how likely you are to pay back a loan on time.<br>
