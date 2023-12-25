@@ -1,6 +1,6 @@
 # creditscoring-segmentation
 
-Credit scoring and segmentation involve assessing the creditworthiness of individuals or businesses and categorizing them into specific groups.
+Credit scoring and segmentation involve assessing the creditworthiness of individuals or businesses and categorizing them into specific groups.<br>
 <br>
 <br>
 Dataset:<br>
