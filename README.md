@@ -26,4 +26,4 @@ A FICO® score is a particular brand of credit score. A credit score is a number
 10% weight for “Education Level”, <br>
 and 10% weight for “Employment Status”. <br>
 
-Inspired by Aman Kharwal
+Inspired
